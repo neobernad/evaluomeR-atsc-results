@@ -10,8 +10,10 @@ This repository contains:
 - Result datasets and code generated during the evaluation of trimmed and sparse clustering methods for different tools and datasets.
 
 ## 📦 Repository Structure
-├── notebooks/ # Results, file name schema is: <dataset>_<tool/method>
+├── notebooks/ # Results
 └── README.md # This file
+
+Notebooks file name schema is: <dataset>_<tool/method>.
 
 ## 📂 Related Tool
 
